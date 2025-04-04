@@ -1,8 +1,6 @@
-# project-adianti-nfe-system
+#🧾 project-adianti-nfe-system
 Sistema PHP com Adianti Framework para envio automático de NF-e por e-mail, integrado ao Protheus. Permite consulta por chave de acesso via APIs públicas gratuitas e geração de PDFs da nota.
 
-
-🧾 project-adianti-nfe-system
 Descrição
 Sistema desenvolvido em PHP utilizando o Adianti Framework, com o objetivo de automatizar o envio e a consulta de Notas Fiscais Eletrônicas (NF-e), integrado diretamente à base de dados do ERP Protheus.
 
