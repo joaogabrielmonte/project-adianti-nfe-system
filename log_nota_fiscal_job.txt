@@ -1,0 +1,44 @@
+Debug: 2025-02-14 09:29:02 - Iniciando execução do job de notas fiscais. (reserva)
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Chave de acesso inválida ou vazia para a nota:                                             . Pulando para a próxima.
+Debug: 2025-02-14 09:29:02 - Processando nota com chave de acesso: 35250169907541000285570000006090431059226188
+Debug: 2025-02-14 09:29:02 - Erro ao executar o job de envio de notas: Erro ao fazer requisição: Erro ao realizar requisição: 500

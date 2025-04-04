@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>DANFSe</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { width: 700px; margin: 0 auto; border: 1px solid #000; padding: 20px; }
+        .header { text-align: center; font-size: 18px; font-weight: bold; }
+        .section { margin-top: 20px; }
+        .title { font-weight: bold; }
+        .content { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">Documento Auxiliar da Nota Fiscal de Serviço Eletrônica (DANFSe)</div>
+        
+        <div class="section">
+            <div class="title">Dados do Emitente</div>
+            <div class="content">Nome: {emitente_razao_social}</div>
+            <div class="content">CNPJ: {emitente_cnpj}</div>
+            <div class="content">Endereço: {emitente_endereco}</div>
+        </div>
+        
+        <div class="section">
+            <div class="title">Dados do Tomador</div>
+            <div class="content">Nome: {tomador_razao_social}</div>
+            <div class="content">CNPJ: {tomador_cnpj}</div>
+            <div class="content">Endereço: {tomador_endereco}</div>
+        </div>
+        
+        <div class="section">
+            <div class="title">Detalhes da Nota</div>
+            <div class="content">Número: {dps_numero}</div>
+            <div class="content">Série: {dps_serie}</div>
+            <div class="content">Data de Emissão: {dps_data_emissao}</div>
+            <div class="content">Valor do Serviço: R$ {valor_servico}</div>
+            <div class="content">Descrição: {descricao_servico}</div>
+        </div>
+    </div>
+</body>
+</html>

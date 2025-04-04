@@ -1,0 +1,1 @@
+Debug: 2025-02-14 09:29:02 - Erro ao realizar requisição: 500
